@@ -10,7 +10,7 @@ Multi-level sub-domain bruteforce/enumeration. The script basically generate mul
 * Varify the generated subdomains using [masdns](https://github.com/blechschmidt/massdns).    
 * Also sends notification to telegram (if keys are setted).  
 
-__Tools Used :__ dnsgen, massdns.   
+__Tools Used :__ [dnsgen](https://github.com/ProjectAnte/dnsgen), [massdns](https://github.com/blechschmidt/massdns).   
 
 ### Help Menu 
 

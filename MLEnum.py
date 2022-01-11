@@ -101,7 +101,7 @@ def Banner():
  888  Y8P  888 888      888        888  888 888  888 888  888  888 
  888   "   888 888      888        888  888 Y88b 888 888  888  888 
  888       888 88888888 8888888888 888  888  "Y88888 888  888  888   """+co.END+"Version 0.1\n"+co.END)  	
-    print("# "+co.BOLD+"Author     : "+co.colors.CYAN+"Ajay Kumar Tekam (github.com/ajaytekam)"+co.END)      
+    print("# "+co.BOLD+"Author     : "+co.colors.CYAN+"Ajay Kumar Tekam [ ajaytekam.github.io ]"+co.END)      
     print("# "+co.BOLD+"Blog       : "+co.colors.CYAN+"https://sec-art.net/"+co.END)       
     print("# "+co.BOLD+"About Tool : "+co.colors.CYAN+"Perform Multi-level Sub-Domain Enumeration"+co.END)    
     print(co.colors.BLUE+"################################################################################\n"+co.END)    
